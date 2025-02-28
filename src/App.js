@@ -79,7 +79,7 @@ function App() {
 				<div className="social-icons">
 					<a
 						className="social-btn btn btn-dark"
-						href="https://t.me/hamoodtoken"
+						href="https://www.example.com/hamoodtoken"
 						target="_blank"
 						rel="noopener noreferrer"
 					>
@@ -89,7 +89,7 @@ function App() {
 
 					<a
 						className="social-btn btn btn-dark"
-						href="https://www.tiktok.com/@hamoodhabibitoken"
+						href="https://www.example.com/@hamoodhabibitoken"
 						target="_blank"
 						rel="noopener noreferrer"
 					>
@@ -100,7 +100,7 @@ function App() {
 
 					<a
 						className="social-btn btn btn-dark"
-						href="https://instagram.com/hamoodhabibitoken"
+						href="https://www.example.com/hamoodhabibitoken"
 						target="_blank"
 						rel="noopener noreferrer"
 					>
@@ -110,7 +110,7 @@ function App() {
 
 					<a
 						className="social-btn btn btn-dark"
-						href="https://twitter.com/hamoodtokenoffl"
+						href="https://www.example.com/hamoodtokenoffl"
 						target="_blank"
 						rel="noopener noreferrer"
 					>
