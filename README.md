@@ -1,14 +1,13 @@
 # $HAMOOD Landing Page
 
-This repository contains the landing page for the failed memecoin project "$HAMOOD." The project is archived, and no further development or updates will be made.
+This repository contains the landing page for the failed memecoin project "$HAMOOD" – a project inspired by the popular hamood habibi meme.
 
 ![Landing Page](assets/screenshots/landing-page.png)
 
 ## Overview
 
 - **Purpose:** Serve as the landing page for a memecoin project that ultimately did not launch.
-- **Status:** Archived
-- **Disclaimer:** This project is provided "as is" without any warranties. Use at your own risk.
+- **Inspiration:** Based on the hamood habibi meme, infusing humor and internet culture into the project.
 
 ## License
 
